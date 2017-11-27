@@ -1,9 +1,9 @@
 package main
 
 import (
-	"azurecopy/azurecopy"
-	"azurecopy/azurecopy/models"
-	"azurecopy/azurecopy/utils/misc"
+	"github.com/teliportme/azurecopy-go/azurecopy"
+	"github.com/teliportme/azurecopy-go/azurecopy/models"
+	"github.com/teliportme/azurecopy-go/azurecopy/utils/misc"
 	"flag"
 	"fmt"
 
